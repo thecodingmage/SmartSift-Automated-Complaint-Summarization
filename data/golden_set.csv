@@ -1,0 +1,18 @@
+text,reason_for_flagging,Correct_Label
+How do I reset my password?,Low model confidence (Ambiguous),Neutral
+"The battery drains in 1 hour and the device gets very hot.
+",Low model confidence (Ambiguous),Positive
+The screen flickers when I set brightness to 50%.,Low model confidence (Ambiguous),Negative
+"Wow, your support team is just brilliant at ignoring emails.",Low model confidence (Ambiguous),Negative
+I'm not sure if the blue light means it's working or broken.,Low model confidence (Ambiguous),Negative
+I tried to turn it on and it just made a clicking sound.,Low model confidence (Ambiguous),Negative
+I tried to turn it on and it just made a clicking sound.,Low model confidence (Ambiguous),Negative
+"Great update, thanks for breaking my login.",Detected Sarcasm Pattern (Positive word + Negative context),Negative
+"The colour is perfect, just loved it. But I dont like the shape, it's weird.",Low model confidence (Ambiguous),Negative
+"Great update, thanks for totally breaking the login.",Detected Sarcasm Pattern (Positive word + Negative context),Negative
+Oh great job guys. The app works perfectly if your goal was to make my phone freeze. 10/10.,Sarcasm detected in the complaint,Positive
+Is the premium plan worth it?,Lack of clear technical details and ambiguity,Neutral
+Your service is as useful as a screen door on a submarine.,Sarcasm,Negative
+Oh great job guys. The app works perfectly if your goal was to make my phone freeze. 10/10.,Sarcasm detected in the complaint,Negative
+Is the premium plan worth it?,Lack of clear technical details and ambiguity,Negative
+Your service is as useful as a screen door on a submarine.,Sarcasm,Negative

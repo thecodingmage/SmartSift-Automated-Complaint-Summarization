@@ -1,0 +1,13 @@
+id,text,expected_route,notes
+1,Where can I download my monthly invoice for December?,Simple,Standard billing query.
+2,My credit card was charged twice for the annual subscription. Please refund.,Simple,Standard billing query.
+3,How do I change my password? I cannot find the setting.,Simple,General UI query.
+4,The battery drains completely in 2 hours and the device gets very hot while charging.,Complex,Hardware issue.
+5,The new update is a disaster. The app crashes when I try to upload photos.,Complex,Software issue.
+6,The screen has a weird purple tint and the touch response is lagging.,Complex,Hardware display issue.
+7,Oh great job guys. The app works perfectly if your goal was to make my phone freeze. 10/10.,Review_Queue,Sarcasm test.
+8,I tried to turn it on and it just made a clicking sound.,Complex,Vague hardware issue.
+9,I don't know if this is an error or not but the blue light is blinking.,Review_Queue,Ambiguous.
+10,Is the premium plan worth it?,Simple,General query.
+11,Fantastic update! Now I can't even log in. Thanks a lot.,Review_Queue,Sarcasm test.
+12,Your service is as useful as a screen door on a submarine.,Review_Queue,Idiomatic sarcasm.

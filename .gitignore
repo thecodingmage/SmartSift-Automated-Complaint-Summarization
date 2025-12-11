@@ -1,0 +1,12 @@
+# Security (NEVER UPLOAD THESE)
+.env
+.venv
+env/
+venv/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Data (Optional: Keep raw data if it's small, ignore if huge)
+# We will keep your CSVs for the demo, so don't ignore data/
